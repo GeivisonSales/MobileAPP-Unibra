@@ -22,10 +22,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF",
-        "package": "com.geivisonsales.unibraapp",
-        "versionCode": 1
-      }
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.geivisonsales.unibra"
     },
     "web": {
       "favicon": "./assets/favicon.png"
